@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading
+{
+font-size: 33px;
+width: 100%;
+margin: 0px;
+color: darkblue;
+}
+
+#status
+{
+font-size: 18px;
+margin-top: 500px;
+background-color: blue;
+margin-bottom: 10px;
+}
+canvas{
+    box-shadow: 15px 15px 15px rgba(0, 0, 139, 0.276);
+    border-radius: 50px;
+}
+#Next{
+    float: right;
+    background-color: blueviolet;
+    right: 3px;
+    font-size: 25px;
+}
+#last{
+    float: left;
+    background-color: blueviolet;
+    right: 3px;
+    font-size: 25px;
+}
